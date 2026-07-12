@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Apple",
+    "symbol": "AAPL",
+    "price": 200
+  },
+  {
+    "name": "Tesla",
+    "symbol": "TSLA",
+    "price": 150
+  }
+]
